@@ -14,11 +14,11 @@
 Ebay 2.0 is a web application that emulates eBay’s searching, selling, and bidding features.
 
 ## How does it work?
-A] Login page
+### A] Login page
 In the start of the web page, a login page for will be introduced. 
 Either a customer, employee, or manager can login through this page.
 
-B] Customer
+### B] Customer
 
 Once a customer logs in, they can:
 1. View Bid History
@@ -28,7 +28,7 @@ Once a customer logs in, they can:
 5. View Best Seller Items
 6. Personalized Item Suggestion List
 
-C] Employee: Customer Representative
+### C] Employee: Customer Representative
 
 Once a representative logs in, they can:
 1. Record a Sale
@@ -36,7 +36,7 @@ Once a representative logs in, they can:
 3. View Customer Mailing List
 4. View Suggestions for Customers
 
-D] Manager
+### D] Manager
 
 Once a manager logs in, they can:
 1. Manage Employee
